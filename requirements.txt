@@ -1,0 +1,9 @@
+aiofiles==0.8.0
+asyncio==3.4.3
+cffi==1.15.0
+numpy==1.22.3
+opencv-python==4.5.5.64
+Pillow==9.0.1
+pure-python-adb==0.3.0.dev0
+pycparser==2.21
+webp==0.1.3
